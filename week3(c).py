@@ -1,3 +1,4 @@
+#check for factorial of a number
 def factorial(num):
     fact = 1
 
