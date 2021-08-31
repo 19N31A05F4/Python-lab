@@ -1,0 +1,15 @@
+#set operations
+s={1,3,5,6,8}
+print(s)
+print(type(s))
+s.add("numbers")
+print(s)
+s.remove(3)
+print(s)
+print(len(s))
+s.discard(5)
+print(s)
+s.pop()
+print(s)
+s.clear()
+print(s)
