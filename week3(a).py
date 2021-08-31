@@ -1,3 +1,4 @@
+#to perform the arithmetic operations from the menu
 num1 =eval(input("Enter the first number:"))
 num2 =eval(input("Enter the second number:"))
 
