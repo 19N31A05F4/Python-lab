@@ -1,3 +1,4 @@
+#check whether two lists are equal or not
 def check(list_1, list_2):
     if len(list_1) != len(list_2):
         return False
