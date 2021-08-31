@@ -1,3 +1,4 @@
+#to perform the arithmetic operations based on the menu
 def add(a,b):
  return a+b
 def sub(c,d):
