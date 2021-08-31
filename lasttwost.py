@@ -1,3 +1,4 @@
+# return the count of last two common letters in the entered list 
 list=[]
 n=int(input("enter the num"))
 for i in range(n):
