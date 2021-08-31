@@ -1,3 +1,4 @@
+#check whether the list is empty or not
 list=[]
 n=eval(input("Enter the size of list:"))
 for x in range(n):
