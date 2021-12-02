@@ -1,0 +1,5 @@
+d=open("C:\\Users\\dilee\\OneDrive\\py_lab_5F4\\file_1.txt","r+")
+d.seek(11)
+d.write(" hi python programming")
+d.seek(0)
+print(d.read())
